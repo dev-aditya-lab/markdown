@@ -1,6 +1,3 @@
-<h2 align="left">Hi 👋! My name is Aditya Kumar Gupra and I'm a student, from Jharkhand, India</h2>
-
-###
 
 
 
